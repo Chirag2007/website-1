@@ -1,4 +1,5 @@
 dir
+# these are the git files
 git init
 git add .
 git add mysite
